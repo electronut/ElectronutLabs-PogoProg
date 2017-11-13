@@ -11,3 +11,11 @@ Most microcontrollers support the SWD protocol as a convenient method to program
 We design a lot of custom hardware and it's a common practise to add an SWD header to a PCB. We've been making do with make-shift programmers for a while now. We finally decided that it would be a good idea to make a well-designed product that would be helpful to the maker community at large.
 
 We've taken care to design PogoPin with ergonomics and aesthetics in mind. Pogo pins are expensive and inconvenient to source in small quantities, so we believe that providing a pre-soldered inexpensive programmer could be beneficial.
+
+## Buy a PogoProg!
+
+PogoProg is available for purchase from our [Tindie store][1]. Please email us at **info@electronut.in** if you have any questions.
+
+<a href="https://www.tindie.com/stores/ElectronutLabs/?ref=offsite_badges&utm_source=sellers_ElectronutLabs&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
+[1]: https://www.tindie.com/stores/ElectronutLabs/
