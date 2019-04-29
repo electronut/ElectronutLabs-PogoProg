@@ -16,6 +16,4 @@ We've taken care to design PogoPin with ergonomics and aesthetics in mind. Pogo 
 
 PogoProg is available for purchase from our [Tindie store][1]. Please email us at **info@electronut.in** if you have any questions.
 
-<a href="https://www.tindie.com/stores/ElectronutLabs/?ref=offsite_badges&utm_source=sellers_ElectronutLabs&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
-
 [1]: https://www.tindie.com/stores/ElectronutLabs/
