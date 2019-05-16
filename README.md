@@ -1,3 +1,5 @@
+> **Note**: This repository has been moved to our GitLab page on May 2019, and will not receive any updates or be monitored. Please follow this link to go to the new repository: https://gitlab.com/electronutlabs-public/ElectronutLabs-PogoProg
+
 ## PogoProg Model B Pogo Pin Programmer
 
 ![PogoProg Model B](PogoProg-modelB-1.jpg)
